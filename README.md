@@ -1,2 +1,2 @@
-# Esportividade-Store
-Loja de calçados e Artigos esportivos.
+# Esportividade Store
+Loja de Calçados e Artigos esportivos.
