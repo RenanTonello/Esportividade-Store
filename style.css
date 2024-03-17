@@ -4,17 +4,28 @@
 }
 
 .cabecalho {
-    background-color:#383D58;
+    background-color:#465DD6;
     color: white;
     display: flex;
     justify-content: space-around;
+    align-items: center;
+    padding: 15px 0;
 }
 
 .cabecalho-imagem{
-    width: 10%;
+    width: 12%;
 
 }
 .cabecalho-imagem-item{
     display: inline-block;
     margin: 0 20px;
+    font-size: 20px;
+}
+
+.escola-imagem{
+    width: 20%;
+}
+
+.Loja{
+    background-image: linear-gradient(#FFFFFF, #5768C5);
 }
