@@ -27,5 +27,16 @@
 }
 
 .Loja{
-    background-image: linear-gradient(#FFFFFF, #5768C5);
+    background-image: linear-gradient(#fff, #fff);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.escola-div-conteudo{
+    width: 25%;
+}
+
+.Titulo-da-Loja{
+    padding: 24px 0;
 }
