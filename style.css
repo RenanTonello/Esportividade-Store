@@ -52,3 +52,18 @@
 .estudante-div{
     text-align: center;
 }
+
+
+.Colaboradores{
+    text-align: center;
+}
+
+.rodape{
+    background-color: black;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 88px;
+    padding: 12px 0;
+}
